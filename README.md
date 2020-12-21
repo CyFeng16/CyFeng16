@@ -1,3 +1,5 @@
+<img align='right' src='https://github.com/CyFeng16/CyFeng16/blob/main/icons/EarthFromSpace.gif' width='200'>
+
 # The Hard Thing About Hard Things!
 
 Hi there, I am CyFeng16, currently researching and designing an AutoML system specifically for the medical field, which medical researchers can quickly verify various possible medical AI solutions. Our ultimate goal is to control medical expenses, reduce medical costs, and improve universal medical security through cross-professional cooperation.
