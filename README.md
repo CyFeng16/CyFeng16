@@ -10,12 +10,12 @@ Hi there, I am CyFeng16, currently researching and designing an AutoML system sp
 
 <!-- github stats starts -->
 <pre>
-<img src='https://github.com/CyFeng16/CyFeng16/blob/main/icons/total-star.svg' height='16px'> Total Stars                                50
-<img src='https://github.com/CyFeng16/CyFeng16/blob/main/icons/total-commits.svg' height='16px'> Total Commits(2020)                       430
-<img src='https://github.com/CyFeng16/CyFeng16/blob/main/icons/total-prs.svg' height='16px'> Total Pull Requests                        68
-<img src='https://github.com/CyFeng16/CyFeng16/blob/main/icons/total-issue.svg' height='16px'> Total Issues                               14
-<img src='https://github.com/CyFeng16/CyFeng16/blob/main/icons/contributed-to.svg' height='16px'> Contributed To                              4
-<img src='https://github.com/CyFeng16/CyFeng16/blob/main/icons/contributed-to.svg' height='16px'> Total Repositories                         93
+<img src='https://github.com/CyFeng16/CyFeng16/blob/main/icons/total-star.svg' height='16px'> Total Stars                                31
+<img src='https://github.com/CyFeng16/CyFeng16/blob/main/icons/total-commits.svg' height='16px'> Total Commits(2020)                        87
+<img src='https://github.com/CyFeng16/CyFeng16/blob/main/icons/total-prs.svg' height='16px'> Total Pull Requests                        52
+<img src='https://github.com/CyFeng16/CyFeng16/blob/main/icons/total-issue.svg' height='16px'> Total Issues                               25
+<img src='https://github.com/CyFeng16/CyFeng16/blob/main/icons/contributed-to.svg' height='16px'> Contributed To                              5
+<img src='https://github.com/CyFeng16/CyFeng16/blob/main/icons/contributed-to.svg' height='16px'> Total Repositories                         15
 </pre>
 <!-- github stats ends -->
 
@@ -26,12 +26,12 @@ Hi there, I am CyFeng16, currently researching and designing an AutoML system sp
 
 <!-- Most Used Language starts -->
 <pre>
-<img src='https://github.com/CyFeng16/CyFeng16/blob/main/icons/typescript-original-wordmark.svg' height='16px' width='16px'> TypeScript       █████░░░░░░░░░░░░░░░░  26.1%
-<img src='https://github.com/CyFeng16/CyFeng16/blob/main/icons/css-original-wordmark.svg' height='16px' width='16px'> CSS              █████░░░░░░░░░░░░░░░░  25.9%
-<img src='https://github.com/CyFeng16/CyFeng16/blob/main/icons/java-original-wordmark.svg' height='16px' width='16px'> Java             ████░░░░░░░░░░░░░░░░░  21.1%
-<img src='https://github.com/CyFeng16/CyFeng16/blob/main/icons/html-original-wordmark.svg' height='16px' width='16px'> HTML             ███░░░░░░░░░░░░░░░░░░  13.2%
-<img src='https://github.com/CyFeng16/CyFeng16/blob/main/icons/javascript-original-wordmark.svg' height='16px' width='16px'> JavaScript       ██░░░░░░░░░░░░░░░░░░░   9.9%
-<img src='https://github.com/CyFeng16/CyFeng16/blob/main/icons/c-original-wordmark.svg' height='16px' width='16px'> C                █░░░░░░░░░░░░░░░░░░░░   3.9%
+<img src='https://github.com/CyFeng16/CyFeng16/blob/main/icons/python-original-wordmark.svg' height='16px' width='16px'> Python           █████████░░░░░░░░░░░░  45.0%
+<img src='https://github.com/CyFeng16/CyFeng16/blob/main/icons/javascript-original-wordmark.svg' height='16px' width='16px'> JavaScript       ████░░░░░░░░░░░░░░░░░  20.3%
+<img src='https://github.com/CyFeng16/CyFeng16/blob/main/icons/typescript-original-wordmark.svg' height='16px' width='16px'> TypeScript       ████░░░░░░░░░░░░░░░░░  16.9%
+<img src='https://github.com/CyFeng16/CyFeng16/blob/main/icons/jupyter notebook-original-wordmark.svg' height='16px' width='16px'> Jupyter Notebook ███░░░░░░░░░░░░░░░░░░  13.2%
+<img src='https://github.com/CyFeng16/CyFeng16/blob/main/icons/stylus-original-wordmark.svg' height='16px' width='16px'> Stylus           █░░░░░░░░░░░░░░░░░░░░   3.6%
+<img src='https://github.com/CyFeng16/CyFeng16/blob/main/icons/html-original-wordmark.svg' height='16px' width='16px'> HTML             ░░░░░░░░░░░░░░░░░░░░░   1.0%
 </pre>
 <!-- Most Used Language ends -->
 
@@ -45,10 +45,10 @@ Hi there, I am CyFeng16, currently researching and designing an AutoML system sp
 
 <!-- Commit stats starts -->
 <pre>
-<img src='https://github.com/CyFeng16/CyFeng16/blob/main/icons/morning.svg' height='16px'> Morning    20 commits   █░░░░░░░░░░░░░░   8.8%
-<img src='https://github.com/CyFeng16/CyFeng16/blob/main/icons/daytime.svg' height='16px'> Daytime    98 commits   ██████░░░░░░░░░  43.2%
-<img src='https://github.com/CyFeng16/CyFeng16/blob/main/icons/evening.svg' height='16px'> Evening   102 commits   ███████░░░░░░░░  44.9%
-<img src='https://github.com/CyFeng16/CyFeng16/blob/main/icons/midnight.svg' height='16px'> Midnight    7 commits   ░░░░░░░░░░░░░░░   3.1%
+<img src='https://github.com/CyFeng16/CyFeng16/blob/main/icons/morning.svg' height='16px'> Morning    93 commits   ████░░░░░░░░░░░  23.5%
+<img src='https://github.com/CyFeng16/CyFeng16/blob/main/icons/daytime.svg' height='16px'> Daytime   130 commits   █████░░░░░░░░░░  32.9%
+<img src='https://github.com/CyFeng16/CyFeng16/blob/main/icons/evening.svg' height='16px'> Evening   132 commits   █████░░░░░░░░░░  33.4%
+<img src='https://github.com/CyFeng16/CyFeng16/blob/main/icons/midnight.svg' height='16px'> Midnight   40 commits   ██░░░░░░░░░░░░░  10.1%
 </pre>
 <!-- Commit stats ends -->
 
@@ -59,10 +59,10 @@ Hi there, I am CyFeng16, currently researching and designing an AutoML system sp
 
 <!-- Recent Pushed starts -->
 <pre>
-<img src='https://github.com/CyFeng16/CyFeng16/blob/main/icons/typescript-original-wordmark.svg' height='16px' width='16px'> hokage(master)               2 files 12/20/2020
-<img src='https://github.com/CyFeng16/CyFeng16/blob/main/icons/typescript-original-wordmark.svg' height='16px' width='16px'> CyFeng16(main)          1 files 12/20/2020
-<img src='https://github.com/CyFeng16/CyFeng16/blob/main/icons/css-original-wordmark.svg' height='16px' width='16px'> linyimin.github.io(master)  93 files 11/14/2020
-<img src='https://github.com/CyFeng16/CyFeng16/blob/main/icons/text-original-wordmark.svg' height='16px' width='16px'> ideas(master)                1 files  6/27/2020
+<img src='https://github.com/CyFeng16/CyFeng16/blob/main/icons/typescript-original-wordmark.svg' height='16px' width='16px'> CyFeng16(master)                                       2 files 12/21/2020
+<img src='https://github.com/CyFeng16/CyFeng16/blob/main/icons/typescript-original-wordmark.svg' height='16px' width='16px'> CyFeng16(main)                                        142 files 12/21/2020
+<img src='https://github.com/CyFeng16/CyFeng16/blob/main/icons/stylus-original-wordmark.svg' height='16px' width='16px'> H2ME-OA(dependabot/npm_and_yarn/prismjs-1.22.0)        1 files 12/21/2020
+<img src='https://github.com/CyFeng16/CyFeng16/blob/main/icons/stylus-original-wordmark.svg' height='16px' width='16px'> H2ME-OA(dependabot/npm_and_yarn/highlight.js-9.18.5)   1 files 12/21/2020
 </pre>
 <!-- Recent Pushed ends -->
 </td>
