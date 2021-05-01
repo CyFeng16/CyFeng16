@@ -15,7 +15,7 @@ Our ultimate goal is to control medical expenses, reduce medical costs, and impr
 <!-- github stats starts -->
 <pre>
 <img src='https://github.com/CyFeng16/CyFeng16/blob/main/icons/total-star.svg' height='16px'> Total Stars                                36
-<img src='https://github.com/CyFeng16/CyFeng16/blob/main/icons/total-commits.svg' height='16px'> Total Commits(2021)                       233
+<img src='https://github.com/CyFeng16/CyFeng16/blob/main/icons/total-commits.svg' height='16px'> Total Commits(2021)                       234
 <img src='https://github.com/CyFeng16/CyFeng16/blob/main/icons/total-prs.svg' height='16px'> Total Pull Requests                        53
 <img src='https://github.com/CyFeng16/CyFeng16/blob/main/icons/total-issue.svg' height='16px'> Total Issues                               27
 <img src='https://github.com/CyFeng16/CyFeng16/blob/main/icons/contributed-to.svg' height='16px'> Contributed To                              4
@@ -50,8 +50,8 @@ Our ultimate goal is to control medical expenses, reduce medical costs, and impr
 <!-- Commit stats starts -->
 <pre>
 <img src='https://github.com/CyFeng16/CyFeng16/blob/main/icons/morning.svg' height='16px'> Morning    95 commits   ████░░░░░░░░░░░  23.6%
-<img src='https://github.com/CyFeng16/CyFeng16/blob/main/icons/daytime.svg' height='16px'> Daytime   130 commits   █████░░░░░░░░░░  32.3%
-<img src='https://github.com/CyFeng16/CyFeng16/blob/main/icons/evening.svg' height='16px'> Evening   138 commits   █████░░░░░░░░░░  34.2%
+<img src='https://github.com/CyFeng16/CyFeng16/blob/main/icons/daytime.svg' height='16px'> Daytime   128 commits   █████░░░░░░░░░░  31.8%
+<img src='https://github.com/CyFeng16/CyFeng16/blob/main/icons/evening.svg' height='16px'> Evening   140 commits   █████░░░░░░░░░░  34.7%
 <img src='https://github.com/CyFeng16/CyFeng16/blob/main/icons/midnight.svg' height='16px'> Midnight   40 commits   █░░░░░░░░░░░░░░   9.9%
 </pre>
 <!-- Commit stats ends -->
@@ -63,10 +63,10 @@ Our ultimate goal is to control medical expenses, reduce medical costs, and impr
 
 <!-- Recent Pushed starts -->
 <pre>
-<img src='https://github.com/CyFeng16/CyFeng16/blob/main/icons/typescript-original-wordmark.svg' height='16px' width='16px'> CyFeng16(main)               1 files  4/29/2021
+<img src='https://github.com/CyFeng16/CyFeng16/blob/main/icons/stylus-original-wordmark.svg' height='16px' width='16px'> cyfeng16.github.io(master)  598 files  4/30/2021
+<img src='https://github.com/CyFeng16/CyFeng16/blob/main/icons/stylus-original-wordmark.svg' height='16px' width='16px'> cyfeng16.github.io(source)   1 files  4/30/2021
+<img src='https://github.com/CyFeng16/CyFeng16/blob/main/icons/typescript-original-wordmark.svg' height='16px' width='16px'> CyFeng16(main)               1 files  4/30/2021
 <img src='https://github.com/CyFeng16/CyFeng16/blob/main/icons/python-original-wordmark.svg' height='16px' width='16px'> AutoML-TensorFlow(main)      2 files  4/28/2021
-<img src='https://github.com/CyFeng16/CyFeng16/blob/main/icons/stylus-original-wordmark.svg' height='16px' width='16px'> cyfeng16.github.io(master)  596 files  4/19/2021
-<img src='https://github.com/CyFeng16/CyFeng16/blob/main/icons/stylus-original-wordmark.svg' height='16px' width='16px'> cyfeng16.github.io(source)   1 files  4/19/2021
 </pre>
 <!-- Recent Pushed ends -->
 </td>
