@@ -15,7 +15,7 @@ Our ultimate goal is to control medical expenses, reduce medical costs, and impr
 <!-- github stats starts -->
 <pre>
 <img src='https://github.com/CyFeng16/CyFeng16/blob/main/icons/total-star.svg' height='16px'> Total Stars                                41
-<img src='https://github.com/CyFeng16/CyFeng16/blob/main/icons/total-commits.svg' height='16px'> Total Commits(2021)                       284
+<img src='https://github.com/CyFeng16/CyFeng16/blob/main/icons/total-commits.svg' height='16px'> Total Commits(2021)                       285
 <img src='https://github.com/CyFeng16/CyFeng16/blob/main/icons/total-prs.svg' height='16px'> Total Pull Requests                        53
 <img src='https://github.com/CyFeng16/CyFeng16/blob/main/icons/total-issue.svg' height='16px'> Total Issues                               27
 <img src='https://github.com/CyFeng16/CyFeng16/blob/main/icons/contributed-to.svg' height='16px'> Contributed To                              4
@@ -30,11 +30,11 @@ Our ultimate goal is to control medical expenses, reduce medical costs, and impr
 
 <!-- Most Used Language starts -->
 <pre>
-<img src='https://github.com/CyFeng16/CyFeng16/blob/main/icons/html-original-wordmark.svg' height='16px' width='16px'> HTML             ██████████░░░░░░░░░░░  49.8%
-<img src='https://github.com/CyFeng16/CyFeng16/blob/main/icons/python-original-wordmark.svg' height='16px' width='16px'> Python           █████░░░░░░░░░░░░░░░░  23.7%
-<img src='https://github.com/CyFeng16/CyFeng16/blob/main/icons/jupyter notebook-original-wordmark.svg' height='16px' width='16px'> Jupyter Notebook ███░░░░░░░░░░░░░░░░░░  14.0%
-<img src='https://github.com/CyFeng16/CyFeng16/blob/main/icons/javascript-original-wordmark.svg' height='16px' width='16px'> JavaScript       █░░░░░░░░░░░░░░░░░░░░   6.2%
-<img src='https://github.com/CyFeng16/CyFeng16/blob/main/icons/typescript-original-wordmark.svg' height='16px' width='16px'> TypeScript       █░░░░░░░░░░░░░░░░░░░░   5.2%
+<img src='https://github.com/CyFeng16/CyFeng16/blob/main/icons/html-original-wordmark.svg' height='16px' width='16px'> HTML             ███████████░░░░░░░░░░  50.5%
+<img src='https://github.com/CyFeng16/CyFeng16/blob/main/icons/python-original-wordmark.svg' height='16px' width='16px'> Python           █████░░░░░░░░░░░░░░░░  24.0%
+<img src='https://github.com/CyFeng16/CyFeng16/blob/main/icons/jupyter notebook-original-wordmark.svg' height='16px' width='16px'> Jupyter Notebook ███░░░░░░░░░░░░░░░░░░  12.8%
+<img src='https://github.com/CyFeng16/CyFeng16/blob/main/icons/javascript-original-wordmark.svg' height='16px' width='16px'> JavaScript       █░░░░░░░░░░░░░░░░░░░░   6.3%
+<img src='https://github.com/CyFeng16/CyFeng16/blob/main/icons/typescript-original-wordmark.svg' height='16px' width='16px'> TypeScript       █░░░░░░░░░░░░░░░░░░░░   5.3%
 <img src='https://github.com/CyFeng16/CyFeng16/blob/main/icons/stylus-original-wordmark.svg' height='16px' width='16px'> Stylus           ░░░░░░░░░░░░░░░░░░░░░   1.1%
 </pre>
 <!-- Most Used Language ends -->
@@ -49,10 +49,10 @@ Our ultimate goal is to control medical expenses, reduce medical costs, and impr
 
 <!-- Commit stats starts -->
 <pre>
-<img src='https://github.com/CyFeng16/CyFeng16/blob/main/icons/morning.svg' height='16px'> Morning    76 commits   ████░░░░░░░░░░░  24.8%
-<img src='https://github.com/CyFeng16/CyFeng16/blob/main/icons/daytime.svg' height='16px'> Daytime    99 commits   █████░░░░░░░░░░  32.4%
-<img src='https://github.com/CyFeng16/CyFeng16/blob/main/icons/evening.svg' height='16px'> Evening    99 commits   █████░░░░░░░░░░  32.4%
-<img src='https://github.com/CyFeng16/CyFeng16/blob/main/icons/midnight.svg' height='16px'> Midnight   32 commits   ██░░░░░░░░░░░░░  10.5%
+<img src='https://github.com/CyFeng16/CyFeng16/blob/main/icons/morning.svg' height='16px'> Morning    71 commits   ████░░░░░░░░░░░  24.5%
+<img src='https://github.com/CyFeng16/CyFeng16/blob/main/icons/daytime.svg' height='16px'> Daytime    92 commits   █████░░░░░░░░░░  31.7%
+<img src='https://github.com/CyFeng16/CyFeng16/blob/main/icons/evening.svg' height='16px'> Evening    95 commits   █████░░░░░░░░░░  32.8%
+<img src='https://github.com/CyFeng16/CyFeng16/blob/main/icons/midnight.svg' height='16px'> Midnight   32 commits   ██░░░░░░░░░░░░░  11.0%
 </pre>
 <!-- Commit stats ends -->
 
@@ -63,8 +63,8 @@ Our ultimate goal is to control medical expenses, reduce medical costs, and impr
 
 <!-- Recent Pushed starts -->
 <pre>
-<img src='https://github.com/CyFeng16/CyFeng16/blob/main/icons/typescript-original-wordmark.svg' height='16px' width='16px'> CyFeng16(main)                                      1 files  8/29/2021
-<img src='https://github.com/CyFeng16/CyFeng16/blob/main/icons/jupyter notebook-original-wordmark.svg' height='16px' width='16px'> cfp-etl(main)                                       3 files  8/28/2021
+<img src='https://github.com/CyFeng16/CyFeng16/blob/main/icons/jupyter notebook-original-wordmark.svg' height='16px' width='16px'> cfp-etl(main)                                       2 files  8/30/2021
+<img src='https://github.com/CyFeng16/CyFeng16/blob/main/icons/typescript-original-wordmark.svg' height='16px' width='16px'> CyFeng16(main)                                      1 files  8/30/2021
 <img src='https://github.com/CyFeng16/CyFeng16/blob/main/icons/stylus-original-wordmark.svg' height='16px' width='16px'> H2ME-OA(dependabot/npm_and_yarn/path-parse-1.0.7)   1 files  8/12/2021
 <img src='https://github.com/CyFeng16/CyFeng16/blob/main/icons/stylus-original-wordmark.svg' height='16px' width='16px'> cyfeng16.github.io(master)                         631 files   7/1/2021
 </pre>
