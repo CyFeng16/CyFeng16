@@ -15,7 +15,7 @@ Our ultimate goal is to control medical expenses, reduce medical costs, and impr
 <!-- github stats starts -->
 <pre>
 <img src='https://github.com/CyFeng16/CyFeng16/blob/main/icons/total-star.svg' height='16px'> Total Stars                                43
-<img src='https://github.com/CyFeng16/CyFeng16/blob/main/icons/total-commits.svg' height='16px'> Total Commits(2021)                       292
+<img src='https://github.com/CyFeng16/CyFeng16/blob/main/icons/total-commits.svg' height='16px'> Total Commits(2021)                       293
 <img src='https://github.com/CyFeng16/CyFeng16/blob/main/icons/total-prs.svg' height='16px'> Total Pull Requests                        53
 <img src='https://github.com/CyFeng16/CyFeng16/blob/main/icons/total-issue.svg' height='16px'> Total Issues                               27
 <img src='https://github.com/CyFeng16/CyFeng16/blob/main/icons/contributed-to.svg' height='16px'> Contributed To                              3
@@ -63,8 +63,8 @@ Our ultimate goal is to control medical expenses, reduce medical costs, and impr
 
 <!-- Recent Pushed starts -->
 <pre>
-<img src='https://github.com/CyFeng16/CyFeng16/blob/main/icons/typescript-original-wordmark.svg' height='16px' width='16px'> CyFeng16(main)               1 files   9/8/2021
-<img src='https://github.com/CyFeng16/CyFeng16/blob/main/icons/jupyter notebook-original-wordmark.svg' height='16px' width='16px'> cfp-etl(main)                1 files   9/7/2021
+<img src='https://github.com/CyFeng16/CyFeng16/blob/main/icons/jupyter notebook-original-wordmark.svg' height='16px' width='16px'> cfp-etl(main)                2 files   9/9/2021
+<img src='https://github.com/CyFeng16/CyFeng16/blob/main/icons/typescript-original-wordmark.svg' height='16px' width='16px'> CyFeng16(main)               1 files   9/9/2021
 <img src='https://github.com/CyFeng16/CyFeng16/blob/main/icons/stylus-original-wordmark.svg' height='16px' width='16px'> cyfeng16.github.io(master)  666 files   9/7/2021
 <img src='https://github.com/CyFeng16/CyFeng16/blob/main/icons/stylus-original-wordmark.svg' height='16px' width='16px'> cyfeng16.github.io(source)  17 files   9/7/2021
 </pre>
