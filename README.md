@@ -15,7 +15,7 @@ Our ultimate goal is to control medical expenses, reduce medical costs, and impr
 <!-- github stats starts -->
 <pre>
 <img src='https://github.com/CyFeng16/CyFeng16/blob/main/icons/total-star.svg' height='16px'> Total Stars                                46
-<img src='https://github.com/CyFeng16/CyFeng16/blob/main/icons/total-commits.svg' height='16px'> Total Commits(2021)                       326
+<img src='https://github.com/CyFeng16/CyFeng16/blob/main/icons/total-commits.svg' height='16px'> Total Commits(2021)                       327
 <img src='https://github.com/CyFeng16/CyFeng16/blob/main/icons/total-prs.svg' height='16px'> Total Pull Requests                        53
 <img src='https://github.com/CyFeng16/CyFeng16/blob/main/icons/total-issue.svg' height='16px'> Total Issues                               27
 <img src='https://github.com/CyFeng16/CyFeng16/blob/main/icons/contributed-to.svg' height='16px'> Contributed To                              3
@@ -63,10 +63,10 @@ Our ultimate goal is to control medical expenses, reduce medical costs, and impr
 
 <!-- Recent Pushed starts -->
 <pre>
-<img src='https://github.com/CyFeng16/CyFeng16/blob/main/icons/typescript-original-wordmark.svg' height='16px' width='16px'> CyFeng16(main)                 1 files 10/11/2021
+<img src='https://github.com/CyFeng16/CyFeng16/blob/main/icons/jupyter notebook-original-wordmark.svg' height='16px' width='16px'> cfp-etl(main)                  1 files 10/12/2021
+<img src='https://github.com/CyFeng16/CyFeng16/blob/main/icons/typescript-original-wordmark.svg' height='16px' width='16px'> CyFeng16(main)                 1 files 10/12/2021
 <img src='https://github.com/CyFeng16/CyFeng16/blob/main/icons/python-original-wordmark.svg' height='16px' width='16px'> invoice-ocr(main)              4 files  10/9/2021
 <img src='https://github.com/CyFeng16/CyFeng16/blob/main/icons/jupyter notebook-original-wordmark.svg' height='16px' width='16px'> ImageCoordinatesHelper(main)   2 files  10/9/2021
-<img src='https://github.com/CyFeng16/CyFeng16/blob/main/icons/jupyter notebook-original-wordmark.svg' height='16px' width='16px'> cfp-etl(main)                  3 files  10/5/2021
 </pre>
 <!-- Recent Pushed ends -->
 </td>
