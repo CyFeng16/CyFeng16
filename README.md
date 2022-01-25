@@ -15,7 +15,7 @@ Our ultimate goal is to control medical expenses, reduce medical costs, and impr
 <!-- github stats starts -->
 <pre>
 <img src='https://github.com/CyFeng16/CyFeng16/blob/main/icons/total-star.svg' height='16px'> Total Stars                                54
-<img src='https://github.com/CyFeng16/CyFeng16/blob/main/icons/total-commits.svg' height='16px'> Total Commits(2022)                       371
+<img src='https://github.com/CyFeng16/CyFeng16/blob/main/icons/total-commits.svg' height='16px'> Total Commits(2022)                       372
 <img src='https://github.com/CyFeng16/CyFeng16/blob/main/icons/total-prs.svg' height='16px'> Total Pull Requests                        53
 <img src='https://github.com/CyFeng16/CyFeng16/blob/main/icons/total-issue.svg' height='16px'> Total Issues                               27
 <img src='https://github.com/CyFeng16/CyFeng16/blob/main/icons/contributed-to.svg' height='16px'> Contributed To                              1
@@ -30,10 +30,10 @@ Our ultimate goal is to control medical expenses, reduce medical costs, and impr
 
 <!-- Most Used Language starts -->
 <pre>
-<img src='https://github.com/CyFeng16/CyFeng16/blob/main/icons/jupyter notebook-original-wordmark.svg' height='16px' width='16px'> Jupyter Notebook █████████████░░░░░░░░  61.3%
-<img src='https://github.com/CyFeng16/CyFeng16/blob/main/icons/python-original-wordmark.svg' height='16px' width='16px'> Python           █████░░░░░░░░░░░░░░░░  25.6%
-<img src='https://github.com/CyFeng16/CyFeng16/blob/main/icons/javascript-original-wordmark.svg' height='16px' width='16px'> JavaScript       █░░░░░░░░░░░░░░░░░░░░   6.4%
-<img src='https://github.com/CyFeng16/CyFeng16/blob/main/icons/typescript-original-wordmark.svg' height='16px' width='16px'> TypeScript       █░░░░░░░░░░░░░░░░░░░░   5.2%
+<img src='https://github.com/CyFeng16/CyFeng16/blob/main/icons/jupyter notebook-original-wordmark.svg' height='16px' width='16px'> Jupyter Notebook █████████████░░░░░░░░  62.9%
+<img src='https://github.com/CyFeng16/CyFeng16/blob/main/icons/python-original-wordmark.svg' height='16px' width='16px'> Python           █████░░░░░░░░░░░░░░░░  24.5%
+<img src='https://github.com/CyFeng16/CyFeng16/blob/main/icons/javascript-original-wordmark.svg' height='16px' width='16px'> JavaScript       █░░░░░░░░░░░░░░░░░░░░   6.1%
+<img src='https://github.com/CyFeng16/CyFeng16/blob/main/icons/typescript-original-wordmark.svg' height='16px' width='16px'> TypeScript       █░░░░░░░░░░░░░░░░░░░░   5.0%
 <img src='https://github.com/CyFeng16/CyFeng16/blob/main/icons/stylus-original-wordmark.svg' height='16px' width='16px'> Stylus           ░░░░░░░░░░░░░░░░░░░░░   1.1%
 <img src='https://github.com/CyFeng16/CyFeng16/blob/main/icons/html-original-wordmark.svg' height='16px' width='16px'> HTML             ░░░░░░░░░░░░░░░░░░░░░   0.5%
 </pre>
@@ -63,10 +63,10 @@ Our ultimate goal is to control medical expenses, reduce medical costs, and impr
 
 <!-- Recent Pushed starts -->
 <pre>
-<img src='https://github.com/CyFeng16/CyFeng16/blob/main/icons/python-original-wordmark.svg' height='16px' width='16px'> h2me_demo(main)      1 files  1/23/2022
-<img src='https://github.com/CyFeng16/CyFeng16/blob/main/icons/typescript-original-wordmark.svg' height='16px' width='16px'> CyFeng16(main)       1 files  1/23/2022
+<img src='https://github.com/CyFeng16/CyFeng16/blob/main/icons/python-original-wordmark.svg' height='16px' width='16px'> h2me_demo(main)      1 files  1/24/2022
+<img src='https://github.com/CyFeng16/CyFeng16/blob/main/icons/jupyter notebook-original-wordmark.svg' height='16px' width='16px'> MyJupyterLab(main)  11 files  1/24/2022
+<img src='https://github.com/CyFeng16/CyFeng16/blob/main/icons/typescript-original-wordmark.svg' height='16px' width='16px'> CyFeng16(main)       1 files  1/24/2022
 <img src='https://github.com/CyFeng16/CyFeng16/blob/main/icons/python-original-wordmark.svg' height='16px' width='16px'> demo-ocr(main)       1 files  1/22/2022
-<img src='https://github.com/CyFeng16/CyFeng16/blob/main/icons/python-original-wordmark.svg' height='16px' width='16px'> demo-cfp-ocr(main)   1 files  1/21/2022
 </pre>
 <!-- Recent Pushed ends -->
 </td>
