@@ -15,11 +15,11 @@ Our ultimate goal is to control medical expenses, reduce medical costs, and impr
 <!-- github stats starts -->
 <pre>
 <img src='https://github.com/CyFeng16/CyFeng16/blob/main/icons/total-star.svg' height='16px'> Total Stars                                59
-<img src='https://github.com/CyFeng16/CyFeng16/blob/main/icons/total-commits.svg' height='16px'> Total Commits(2022)                       381
+<img src='https://github.com/CyFeng16/CyFeng16/blob/main/icons/total-commits.svg' height='16px'> Total Commits(2022)                       382
 <img src='https://github.com/CyFeng16/CyFeng16/blob/main/icons/total-prs.svg' height='16px'> Total Pull Requests                        53
 <img src='https://github.com/CyFeng16/CyFeng16/blob/main/icons/total-issue.svg' height='16px'> Total Issues                               27
 <img src='https://github.com/CyFeng16/CyFeng16/blob/main/icons/contributed-to.svg' height='16px'> Contributed To                              0
-<img src='https://github.com/CyFeng16/CyFeng16/blob/main/icons/contributed-to.svg' height='16px'> Total Repositories                         37
+<img src='https://github.com/CyFeng16/CyFeng16/blob/main/icons/contributed-to.svg' height='16px'> Total Repositories                         38
 </pre>
 <!-- github stats ends -->
 
@@ -30,7 +30,7 @@ Our ultimate goal is to control medical expenses, reduce medical costs, and impr
 
 <!-- Most Used Language starts -->
 <pre>
-<img src='https://github.com/CyFeng16/CyFeng16/blob/main/icons/jupyter notebook-original-wordmark.svg' height='16px' width='16px'> Jupyter Notebook ████████████░░░░░░░░░  58.0%
+<img src='https://github.com/CyFeng16/CyFeng16/blob/main/icons/jupyter notebook-original-wordmark.svg' height='16px' width='16px'> Jupyter Notebook ████████████░░░░░░░░░  57.9%
 <img src='https://github.com/CyFeng16/CyFeng16/blob/main/icons/python-original-wordmark.svg' height='16px' width='16px'> Python           █████░░░░░░░░░░░░░░░░  22.7%
 <img src='https://github.com/CyFeng16/CyFeng16/blob/main/icons/typescript-original-wordmark.svg' height='16px' width='16px'> TypeScript       ██░░░░░░░░░░░░░░░░░░░   9.4%
 <img src='https://github.com/CyFeng16/CyFeng16/blob/main/icons/javascript-original-wordmark.svg' height='16px' width='16px'> JavaScript       ██░░░░░░░░░░░░░░░░░░░   8.8%
@@ -63,10 +63,10 @@ Our ultimate goal is to control medical expenses, reduce medical costs, and impr
 
 <!-- Recent Pushed starts -->
 <pre>
-<img src='https://github.com/CyFeng16/CyFeng16/blob/main/icons/typescript-original-wordmark.svg' height='16px' width='16px'> CyFeng16(main)           1 files  7/31/2022
-<img src='https://github.com/CyFeng16/CyFeng16/blob/main/icons/jupyter notebook-original-wordmark.svg' height='16px' width='16px'> MyJupyterLab(main)       4 files  7/29/2022
-<img src='https://github.com/CyFeng16/CyFeng16/blob/main/icons/python-original-wordmark.svg' height='16px' width='16px'> CASYNTAX(main)          32 files  7/28/2022
-<img src='https://github.com/CyFeng16/CyFeng16/blob/main/icons/text-original-wordmark.svg' height='16px' width='16px'> CASYNTAX-HUAKING(main)   1 files  7/28/2022
+<img src='https://github.com/CyFeng16/CyFeng16/blob/main/icons/python-original-wordmark.svg' height='16px' width='16px'> 24points(main)       1 files   8/1/2022
+<img src='https://github.com/CyFeng16/CyFeng16/blob/main/icons/typescript-original-wordmark.svg' height='16px' width='16px'> CyFeng16(main)       1 files   8/1/2022
+<img src='https://github.com/CyFeng16/CyFeng16/blob/main/icons/jupyter notebook-original-wordmark.svg' height='16px' width='16px'> MyJupyterLab(main)   4 files  7/29/2022
+<img src='https://github.com/CyFeng16/CyFeng16/blob/main/icons/python-original-wordmark.svg' height='16px' width='16px'> CASYNTAX(main)      32 files  7/28/2022
 </pre>
 <!-- Recent Pushed ends -->
 </td>
