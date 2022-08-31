@@ -15,7 +15,7 @@ Our ultimate goal is to control medical expenses, reduce medical costs, and impr
 <!-- github stats starts -->
 <pre>
 <img src='https://github.com/CyFeng16/CyFeng16/blob/main/icons/total-star.svg' height='16px'> Total Stars                                60
-<img src='https://github.com/CyFeng16/CyFeng16/blob/main/icons/total-commits.svg' height='16px'> Total Commits(2022)                       382
+<img src='https://github.com/CyFeng16/CyFeng16/blob/main/icons/total-commits.svg' height='16px'> Total Commits(2022)                       383
 <img src='https://github.com/CyFeng16/CyFeng16/blob/main/icons/total-prs.svg' height='16px'> Total Pull Requests                        53
 <img src='https://github.com/CyFeng16/CyFeng16/blob/main/icons/total-issue.svg' height='16px'> Total Issues                               27
 <img src='https://github.com/CyFeng16/CyFeng16/blob/main/icons/contributed-to.svg' height='16px'> Contributed To                              0
@@ -63,10 +63,10 @@ Our ultimate goal is to control medical expenses, reduce medical costs, and impr
 
 <!-- Recent Pushed starts -->
 <pre>
-<img src='https://github.com/CyFeng16/CyFeng16/blob/main/icons/open policy agent-original-wordmark.svg' height='16px' width='16px'> h2me_annotation_tool(main)                                                1 files  8/29/2022
-<img src='https://github.com/CyFeng16/CyFeng16/blob/main/icons/open policy agent-original-wordmark.svg' height='16px' width='16px'> h2me_annotation_tool(dependabot/pip/utils/dicom_converter/numpy-1.22.0)   1 files  8/29/2022
-<img src='https://github.com/CyFeng16/CyFeng16/blob/main/icons/open policy agent-original-wordmark.svg' height='16px' width='16px'> h2me_annotation_tool(dependabot/pip/cvat/requirements/django-3.2.15)      1 files  8/29/2022
-<img src='https://github.com/CyFeng16/CyFeng16/blob/main/icons/open policy agent-original-wordmark.svg' height='16px' width='16px'> h2me_annotation_tool(dependabot/pip/cvat/requirements/tensorflow-2.8.1)   1 files  8/29/2022
+<img src='https://github.com/CyFeng16/CyFeng16/blob/main/icons/open policy agent-original-wordmark.svg' height='16px' width='16px'> h2me_annotation_tool(dependabot/pip/cvat/requirements/mod-wsgi-4.9.3)   1 files  8/30/2022
+<img src='https://github.com/CyFeng16/CyFeng16/blob/main/icons/python-original-wordmark.svg' height='16px' width='16px'> cpmmi(main)                                                             2 files  8/30/2022
+<img src='https://github.com/CyFeng16/CyFeng16/blob/main/icons/typescript-original-wordmark.svg' height='16px' width='16px'> CyFeng16(main)                                                          2 files  8/30/2022
+<img src='https://github.com/CyFeng16/CyFeng16/blob/main/icons/open policy agent-original-wordmark.svg' height='16px' width='16px'> h2me_annotation_tool(main)                                              1 files  8/29/2022
 </pre>
 <!-- Recent Pushed ends -->
 </td>
