@@ -14,12 +14,12 @@ Our ultimate goal is to control medical expenses, reduce medical costs, and impr
 
 <!-- github stats starts -->
 <pre>
-<img src='https://github.com/CyFeng16/CyFeng16/blob/main/icons/total-star.svg' height='16px'> Total Stars                                70
-<img src='https://github.com/CyFeng16/CyFeng16/blob/main/icons/total-commits.svg' height='16px'> Total Commits(2022)                       382
+<img src='https://github.com/CyFeng16/CyFeng16/blob/main/icons/total-star.svg' height='16px'> Total Stars                                68
+<img src='https://github.com/CyFeng16/CyFeng16/blob/main/icons/total-commits.svg' height='16px'> Total Commits(2022)                       383
 <img src='https://github.com/CyFeng16/CyFeng16/blob/main/icons/total-prs.svg' height='16px'> Total Pull Requests                        53
-<img src='https://github.com/CyFeng16/CyFeng16/blob/main/icons/total-issue.svg' height='16px'> Total Issues                               27
-<img src='https://github.com/CyFeng16/CyFeng16/blob/main/icons/contributed-to.svg' height='16px'> Contributed To                              0
-<img src='https://github.com/CyFeng16/CyFeng16/blob/main/icons/contributed-to.svg' height='16px'> Total Repositories                         45
+<img src='https://github.com/CyFeng16/CyFeng16/blob/main/icons/total-issue.svg' height='16px'> Total Issues                               28
+<img src='https://github.com/CyFeng16/CyFeng16/blob/main/icons/contributed-to.svg' height='16px'> Contributed To                              1
+<img src='https://github.com/CyFeng16/CyFeng16/blob/main/icons/contributed-to.svg' height='16px'> Total Repositories                         44
 </pre>
 <!-- github stats ends -->
 
@@ -63,10 +63,10 @@ Our ultimate goal is to control medical expenses, reduce medical costs, and impr
 
 <!-- Recent Pushed starts -->
 <pre>
-<img src='https://github.com/CyFeng16/CyFeng16/blob/main/icons/text-original-wordmark.svg' height='16px' width='16px'> h2me-dataset(main)      1 files  11/8/2022
-<img src='https://github.com/CyFeng16/CyFeng16/blob/main/icons/typescript-original-wordmark.svg' height='16px' width='16px'> CyFeng16(main)          1 files  11/8/2022
+<img src='https://github.com/CyFeng16/CyFeng16/blob/main/icons/typescript-original-wordmark.svg' height='16px' width='16px'> CyFeng16(main)          1 files  11/9/2022
 <img src='https://github.com/CyFeng16/CyFeng16/blob/main/icons/text-original-wordmark.svg' height='16px' width='16px'> H2ME-Automation(cvat)  1713 files 10/27/2022
 <img src='https://github.com/CyFeng16/CyFeng16/blob/main/icons/text-original-wordmark.svg' height='16px' width='16px'> H2ME-Automation(main)   1 files 10/27/2022
+<img src='https://github.com/CyFeng16/CyFeng16/blob/main/icons/python-original-wordmark.svg' height='16px' width='16px'> tjeh-oc-sc(main)       12 files  9/24/2022
 </pre>
 <!-- Recent Pushed ends -->
 </td>
